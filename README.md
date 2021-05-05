@@ -9,7 +9,7 @@
 #### NOTE: the username = root and password = Kunwar_IIT13 for connecting to MySQL workbench through IntelliJ. If the username and password for MySQL Connection is different, then please change it in sqlConnect.java and also in encoder-decoder.py
 #### Import all the .csv files from Unified_Embeddings_Framework/database schema to MySQL workbench. Please make sure that the name of the schema is "database_schema". Please find how to import and export data to MySQL workbench [here](https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-table.html)
 #### 3. Connect to MySQL database from IntelliJ. You can find the instructions [here](https://www.jetbrains.com/help/idea/connecting-to-a-database.html#connect-to-bigquery-database)
-#### 4. Configure python SDK on IntelliJ. You can find the detailed instructions [here](https://www.jetbrains.com/help/idea/configuring-python-sdk.html)
+#### 4. Configure python SDK on IntelliJ. For the current project a python version 3.7 or above is required. You can find the detailed instructions [here](https://www.jetbrains.com/help/idea/configuring-python-sdk.html)
 #### 5. Configure python system interpreter on IntelliJ. You can find the detailed instructions [here](https://www.jetbrains.com/help/idea/configuring-local-python-interpreters.html)
 #### 6. Add mysql-connector-java jar, JUnit5 jar to the IntelliJ project. You can find the details [here](https://www.jetbrains.com/help/idea/testing.html#add-testing-libraries) and [here](https://downloads.mysql.com/archives/c-j/).
 #### 7. Install sbt for mac/windows. You can find the document [here](https://www.scala-sbt.org/1.x/docs/Setup.html)
