@@ -11,7 +11,8 @@
 #### 4. Configure python SDK on IntelliJ. You can find the detailed instructions [here](https://www.jetbrains.com/help/idea/configuring-python-sdk.html)
 #### 5. Configure python system interpreter on IntelliJ. You can find the detailed instructions [here](https://www.jetbrains.com/help/idea/configuring-local-python-interpreters.html)
 #### 6. Install sbt for mac/windows. You can find the document [here](https://www.scala-sbt.org/1.x/docs/Setup.html)
-#### 7. Create a sbt build folder by running the following commands: $mkdir build_folder, $cd build_folder, $touch build_folder. You can find an example [here](https://www.scala-sbt.org/1.x/docs/sbt-by-example.html)
-#### 8. Set ThisBuild / scalaVersion from sbt shell 
+#### 7. Create a sbt build folder by running the following commands: $mkdir \_buildfolder, $cd \_buildfolder, $touch \_buildfolder. You can find an example [here](https://www.scala-sbt.org/1.x/docs/sbt-by-example.html)
+#### 8. Upload the build.sbt file from Unified_Embeddings_Framework/build_folder/build.sbt
+#### 9. C
 
 
