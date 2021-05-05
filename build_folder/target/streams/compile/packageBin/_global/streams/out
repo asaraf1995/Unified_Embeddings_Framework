@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/aasthasaraf/Desktop/New/build_folder/target/unified_embeddings_platform-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java/modellingService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java/modellingService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java/dataService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java/dataService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java/apiService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java/apiService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java/userDatatype.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java/userDatatype.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java/entityService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java/entityService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java/sqlConnection[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java/sqlConnection[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java/sqlConnection/sqlConnect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java/sqlConnection/sqlConnect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java/profileService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java/profileService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/java/monitoringService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/aasthasaraf/Desktop/New/build_folder/target/classes/main/java/monitoringService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

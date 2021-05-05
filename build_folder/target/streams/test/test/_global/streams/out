@@ -1,0 +1,52 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(profileServiceTest, net.aichler.jupiter.api.JupiterTestFingerprint@278fe135, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(apiServiceTest, net.aichler.jupiter.api.JupiterTestFingerprint@3347e5dc, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(dataServiceTest, net.aichler.jupiter.api.JupiterTestFingerprint@7ba112d5, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(entityServiceTest, net.aichler.jupiter.api.JupiterTestFingerprint@11d42fcb, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started (JUnit Jupiter)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mentityServiceTest[0m[36m#writeData()[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mentityServiceTest[0m[36m#fetchData()[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mtrue[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, [0m[34m2 total, [0m[34m0.307s[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started (JUnit Jupiter)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mprofileServiceTest[0m[36m#existingUser()[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0m256916[0m
+[0m[[0m[0minfo[0m] [0m[0m monitoringService.dataDeleted() called, Data deleted: 1 Mbs[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mprofileServiceTest[0m[36m#newUser()[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mdataService.push() called, to push data successfully run encoder-decoder.py[0m
+[0m[[0m[0minfo[0m] [0m[0m profileService.newUser() called, New facebook_user 5414 profileService.newUser() called, New twitter_user 7126 monitoringService.dataAdded() called, Data added: 2 Mbs[0m
+[0m[[0m[0minfo[0m] [0m[0m monitoringService.dataAdded() called, Data added: 2 Mbs[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, [0m[34m2 total, [0m[34m0.309s[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started (JUnit Jupiter)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mdataServiceTest[0m[36m#pull()[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mdataService.pull() called, entityService.fetchData() called, User Embedding: [1.5616388 0.        0.        0.        1.801243  2.2523036 0.[0m
+[0m[[0m[0minfo[0m] [0m[0m 1.4191242 1.3118767 2.4255688 2.8038561 0.        0.        0.[0m
+[0m[[0m[0minfo[0m] [0m[0m 0.        0.        2.3854103 2.7922304 1.8196552 1.8508794 2.5106602[0m
+[0m[[0m[0minfo[0m] [0m[0m 2.0225973 1.7731112 2.4100897 2.0987098 2.0308433 2.2158191 0.[0m
+[0m[[0m[0minfo[0m] [0m[0m 2.2939403 1.7075104 1.5225426 2.5014474] entityService.fetchData() called, User Embedding: [0.961134   0.         0.         0.         1.2947557  3.4797387[0m
+[0m[[0m[0minfo[0m] [0m[0m 0.         2.2500122  2.4504538  1.614666   0.97572386 0.[0m
+[0m[[0m[0minfo[0m] [0m[0m 0.         0.         0.         0.         2.5968616  1.116194[0m
+[0m[[0m[0minfo[0m] [0m[0m 2.0992527  3.1456654  2.345961   0.4708948  2.8535383  1.4375783[0m
+[0m[[0m[0minfo[0m] [0m[0m 2.101005   1.0836735  0.70298207 0.         2.3107321  3.1606083[0m
+[0m[[0m[0minfo[0m] [0m[0m 1.9625818  2.596702  ] monitoringService.dataFetched() called, Data fetched: 2 Mbs[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mdataServiceTest[0m[36m#push()[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0m97507[0m
+[0m[[0m[0minfo[0m] [0m[0mdataService.push() called, to push data successfully run encoder-decoder.py[0m
+[0m[[0m[0minfo[0m] [0m[0mdataService.push() called, entityService.writeData() called, User Data insert successfully in facebook_dataset twitter_dataset[0m
+[0m[[0m[0minfo[0m] [0m[0mdataService.push() called, to push data successfully run encoder-decoder.py[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, [0m[34m2 total, [0m[34m0.397s[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started (JUnit Jupiter)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mapiServiceTest[0m[36m#apiCall()[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mdataService.push() called, to push data successfully run encoder-decoder.py[0m
+[0m[[0m[0minfo[0m] [0m[0m55[0m
+[0m[[0m[0minfo[0m] [0m[0m89[0m
+[0m[[0m[0minfo[0m] [0m[0m2234[0m
+[0m[[0m[0minfo[0m] [0m[0mdataService.push() called, to push data successfully run encoder-decoder.py[0m
+[0m[[0m[0minfo[0m] [0m[0m[Ljava.lang.String;@ad4818d[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, [0m[34m1 total, [0m[34m0.619s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for Jupiter not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 7, Failed 0, Errors 0, Passed 7[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	apiServiceTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dataServiceTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	entityServiceTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	profileServiceTest[0m
