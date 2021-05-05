@@ -1,5 +1,6 @@
 # Unified Embeddings Framework
 ## By Aastha Saraf
+#### [Here's](https://www.overleaf.com/read/vmrcrrvryhfv) the Build and Deployment Document
 ### Steps to Install:
 #### 1. Download the project and open it on IntelliJ
 #### 2. Setup the Database
