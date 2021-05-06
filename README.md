@@ -18,6 +18,7 @@
 #### 10. Since the project requires JUnit5 to run, we need to set SBT's test interface for JUnit Jupiter. You can find the details [here](https://github.com/maichler/sbt-jupiter-interface). Put the plugins.sbt file under \_buildfolder\project, you can also copy the file from Unified_Embeddings_Framework/build_folder/project/plugins.sbt
 #### 11. Mark Unified_Embeddings_Framework/src/test/java as the test directory. Find the details [here](https://www.jetbrains.com/help/idea/testing.html#add-test-root) and also Mark Unified_Embeddings_Framework/src as the Source root. Find the details [here](https://www.jetbrains.com/help/idea/content-roots.html)
 #### 12. Copy the src folder as it is from Unified_Embeddings_Framework/src to \_buildfolder/src
+#### NOTE: The name of the iml file is New.iml, change the name of the project to New.
 #### 13. Start sbt shell by running: $sbt
 #### 14. Compile the project by running: compile
 #### 15. Run the project by running: run
