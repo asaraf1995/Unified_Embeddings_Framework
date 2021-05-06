@@ -16,7 +16,7 @@
 #### 8. Create a sbt build folder by running the following commands: $mkdir \_buildfolder, $cd \_buildfolder, $touch \_buildfolder. You can find an example [here](https://www.scala-sbt.org/1.x/docs/sbt-by-example.html)
 #### 9. Upload the build.sbt file from Unified_Embeddings_Framework/build_folder/build.sbt to the \_buildfolder
 #### 10. Since the project requires JUnit5 to run, we need to set SBT's test interface for JUnit Jupiter. You can find the details [here](https://github.com/maichler/sbt-jupiter-interface). Put the plugins.sbt file under \_buildfolder\project, you can also copy the file from Unified_Embeddings_Framework/build_folder/project/plugins.sbt
-#### 11. Mark Unified_Embeddings_Framework/src/test/java as the test directory. Find the details [here](https://www.jetbrains.com/help/idea/testing.html#add-test-root)
+#### 11. Mark Unified_Embeddings_Framework/src/test/java as the test directory. Find the details [here](https://www.jetbrains.com/help/idea/testing.html#add-test-root) and also Mark Unified_Embeddings_Framework/src as the Source root. Find the details [here](https://www.jetbrains.com/help/idea/content-roots.html)
 #### 12. Copy the src folder as it is from Unified_Embeddings_Framework/src to \_buildfolder/src
 #### 13. Start sbt shell by running: $sbt
 #### 14. Compile the project by running: compile
